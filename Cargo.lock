@@ -25,3 +25,15 @@ version = "0.1.0"
 [[package]]
 name = "day_06_tuning_trouble"
 version = "0.1.0"
+
+[[package]]
+name = "day_07_no_space_left"
+version = "0.1.0"
+
+[[package]]
+name = "day_08_treetop"
+version = "0.1.0"
+
+[[package]]
+name = "day_09_rope_bridge"
+version = "0.1.0"

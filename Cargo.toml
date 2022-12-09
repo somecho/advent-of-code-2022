@@ -5,5 +5,8 @@ members = [
     "day_03_rucksack_reorganization",
     "day_04_camp_cleanup",
     "day_05_supply_stacks",
-    "day_06_tuning_trouble"
+    "day_06_tuning_trouble",
+    "day_07_no_space_left",
+    "day_08_treetop",
+    "day_09_rope_bridge"
 ]
